@@ -16,5 +16,5 @@ export default defineConfig({
   // the base should be '/my-candy-generator/'
   // This is the most common reason for a blank page after deployment.
   // ===================================================================================
-  base: '/your-repo-name/', 
+  base: '/candygenv5/', 
 })
